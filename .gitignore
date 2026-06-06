@@ -1,0 +1,17 @@
+# Build output
+/build/
+
+# Build artifacts (if ever built in-tree)
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Editor / OS
+.vscode/
+*.swp
+*~
+.DS_Store
